@@ -18,8 +18,7 @@
     ".svn",
     ".git",
     ".hg",
-    "CVS",
-    "node_modules"
+    "CVS"
   ],
   "highlight_modified_tabs": true,
   "scroll_past_end": "true"
